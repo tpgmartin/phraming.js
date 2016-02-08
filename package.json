@@ -1,0 +1,19 @@
+{
+  "name": "phraming.js",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpgmartin/phraming.js.git"
+  },
+  "author": "Tom Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/phraming.js/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/phraming.js#readme"
+}
